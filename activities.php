@@ -35,7 +35,7 @@
             <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="index.html">Home</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="reflections.html">Reflections</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita2.herokuapp.com/">Reflections</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
             <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="certificates.html">Certificates</a>
@@ -120,7 +120,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/needfindings.jpg" alt="">
+            <img class="img-fluid" src="img/needfindings.JPG" alt="">
           </div>
 			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity4.html">ACTIVITY#4</a>
         </div>
@@ -132,7 +132,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/initialproto.jpg" alt="">
+            <img class="img-fluid" src="img/initialproto.JPG" alt="">
           </div>
 			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity5.html">ACTIVITY#5</a>
         </div>
@@ -156,7 +156,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/infodesign.jpg" alt="">
+            <img class="img-fluid" src="img/infodesign.JPG" alt="">
           </div>
 			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity7.html">ACTIVITY#7</a>
         </div>
@@ -169,7 +169,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/gridlayouts.jpg" alt="">
+            <img class="img-fluid" src="img/gridlayouts.JPG" alt="">
           </div>
 			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity8.html">ACTIVITY#8</a>
         </div>
@@ -181,7 +181,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/12columngrid.jpg" alt="">
+            <img class="img-fluid" src="img/12columngrid.JPG" alt="">
           </div>
 			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity9.html">ACTIVITY#9</a>
         </div>
