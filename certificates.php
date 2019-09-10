@@ -38,7 +38,7 @@
             <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="activities.html">Activities</a>
           </li>
           <li class="nav-item mx-0 mx-lg-1">
-            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="reflections.html">Reflections</a>
+            <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="https://userdes-ormita2.herokuapp.com/">Reflections</a>
           </li>
         </ul>
       </div>
@@ -73,26 +73,26 @@
     <div class="container">
 	<center>
 		<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://www.linkedin.com/learning/ux-design-4-ideation">Certificate #1</a></p>
-		<img class="rounded-corner" src="img2/certificate1.png" align="center" width="800" height="600" alt="">	
+		<img class="rounded-corner" src="img2/certificate1.PNG" align="center" width="800" height="600" alt="">	
 		<p></p>
 		<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://www.linkedin.com/learning/ux-design-5-creating-scenarios-and-storyboards-2/next-steps-prototyping?u=35279340">Certificate #2</a></p>
 		<p></p>
-		<img class="rounded-corner" src="img2/certificate2.png" align="center" width="800" height="600" alt="">
+		<img class="rounded-corner" src="img2/certificate2.PNG" align="center" width="800" height="600" alt="">
 		<p></p>
 		<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://www.linkedin.com/learning/ux-design-6-paper-prototyping">Certificate #3</a></p>
 		<p></p>
-		<img class="rounded-corner" src="img2/certificate3.png" align="center" width="800" height="600" alt="">
+		<img class="rounded-corner" src="img2/certificate3.PNG" align="center" width="800" height="600" alt="">
 		<p></p>
 		<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://www.linkedin.com/learning/getting-started-with-technology-think-like-an-engineer">Certificate #4</a></p>
 		<p></p>
-		<img class="rounded-corner" src="img2/certificate4.png" align="center" width="800" height="600" alt="">		
+		<img class="rounded-corner" src="img2/certificate4.PNG" align="center" width="800" height="600" alt="">		
 		<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://www.linkedin.com/learning/event-planning-foundations">Certificate #5</a></p>
 		<p></p>
-		<img class="rounded-corner" src="img2/certificate5.png" align="center" width="800" height="600" alt="">
+		<img class="rounded-corner" src="img2/certificate5.PNG" align="center" width="800" height="600" alt="">
 		<p></p>
 		<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://www.linkedin.com/learning/learning-to-be-approachable">Certificate #6</a></p>
 		<p></p>
-		<img class="rounded-corner" src="img2/certificate6.png" align="center" width="800" height="600" alt="">
+		<img class="rounded-corner" src="img2/certificate6.PNG" align="center" width="800" height="600" alt="">
 		<p></p>
 	</center>
 	</div>
