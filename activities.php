@@ -83,7 +83,7 @@
             </div>
             <img class="img-fluid" src="img/PUP.jpg" alt="" >
           </div>
-			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity1.html">ACTIVITY#1</a>
+			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://userdes-ormita3.herokuapp.com/index.html">ACTIVITY#1</a>
         </div>
 
         <!-- Portfolio Item 2 -->
@@ -96,7 +96,7 @@
             </div>
             <img class="rounded-square float-middle" src="img/sakay.jpg" width="350" height="200" alt="">
           </div>
-		  	<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity2.html">ACTIVITY#2</a>
+		  	<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://userdes-ormita3.herokuapp.com/activity2.html">ACTIVITY#2</a>
         </div>
 
         <!-- Portfolio Item 3 -->
@@ -109,7 +109,7 @@
             </div>
 			<img class="img-fluid" src="img/elevator.jpg" alt="">
           </div>
-		  	<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity3.html">ACTIVITY#3</a>
+		  	<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://userdes-ormita3.herokuapp.com/activity3.html">ACTIVITY#3</a>
 			</p>
         </div>
 
@@ -122,7 +122,7 @@
             </div>
             <img class="img-fluid" src="img/needfindings.JPG" alt="">
           </div>
-			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity4.html">ACTIVITY#4</a>
+			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://userdes-ormita3.herokuapp.com/activity4.html">ACTIVITY#4</a>
         </div>
 		
 	    <div class="col-md-6 col-lg-4">
@@ -134,7 +134,7 @@
             </div>
             <img class="img-fluid" src="img/initialproto.JPG" alt="">
           </div>
-			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity5.html">ACTIVITY#5</a>
+			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://userdes-ormita3.herokuapp.com/activity5.html">ACTIVITY#5</a>
         </div>
 
 	    <div class="col-md-6 col-lg-4">
@@ -146,7 +146,7 @@
             </div>
             <img class="img-fluid" src="img/persona.JPG" alt="">
           </div>
-			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity6.html">ACTIVITY#6</a>
+			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://userdes-ormita3.herokuapp.com/activity6.html">ACTIVITY#6</a>
         </div>
 
 	    <div class="col-md-6 col-lg-4">
@@ -158,7 +158,7 @@
             </div>
             <img class="img-fluid" src="img/infodesign.JPG" alt="">
           </div>
-			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity7.html">ACTIVITY#7</a>
+			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://userdes-ormita3.herokuapp.com/activity7.html">ACTIVITY#7</a>
         </div>
 
 
@@ -171,7 +171,7 @@
             </div>
             <img class="img-fluid" src="img/gridlayouts.JPG" alt="">
           </div>
-			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity8.html">ACTIVITY#8</a>
+			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://userdes-ormita3.herokuapp.com/activity8.html">ACTIVITY#8</a>
         </div>
 
 	    <div class="col-md-6 col-lg-4">
@@ -183,7 +183,7 @@
             </div>
             <img class="img-fluid" src="img/12columngrid.JPG" alt="">
           </div>
-			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activity9.html">ACTIVITY#9</a>
+			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="https://userdes-ormita3.herokuapp.com/activity9.html">ACTIVITY#9</a>
         </div>
 
 
