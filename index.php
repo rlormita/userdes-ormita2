@@ -100,7 +100,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img/activities.png" alt="" >
+            <img class="img-fluid" src="img/activities.PNG" alt="" >
           </div>
 			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="activities.html">ACTIVITIES</a>
         </div>
@@ -112,7 +112,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="img-fluid" src="img2/learnings.png" alt="" >
+            <img class="img-fluid" src="img2/learnings.PNG" alt="" >
           </div>
 			<p align="center">	<a class="nav-link text-uppercase text-expanded" href="certificates.html">LEARNINGS</a>
         </div>
@@ -124,7 +124,7 @@
                 <i class="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img class="rounded-square float-middle" src="img2/reflections.png" width="350" height="200" alt="">
+            <img class="rounded-square float-middle" src="img2/reflections.PNG" width="350" height="200" alt="">
           </div>
 		  	<p align="center">	<a class="nav-link text-uppercase text-expanded" href="reflections.html">REFLECTIONS</a>
         </div>
